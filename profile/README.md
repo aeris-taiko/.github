@@ -10,7 +10,15 @@ This GitHub org houses the governance stack that powers our internal divisions �
 - **HealthSight** — healthcare-facing data viz and apps
 - **Critter Concierge** — A just-in-case system that ensures your animals are never forgotten.
 
-## 🧱 ATC's Open Platform
+## Principles
+
+We operate under the belief that the best systems:
+- Are **open** by design
+- Center around **sovereignty**, **trust**, and **consent**
+- Make governance **inspectable**, not opaque
+- Are designed to be **reused and improved**, not hoarded and immutable
+
+## Open Platform
 
 We’ve open-sourced the foundational infrastructure behind Aeris-Taiko, including:
 
@@ -19,11 +27,3 @@ We’ve open-sourced the foundational infrastructure behind Aeris-Taiko, includi
 - **Onboarding Playbooks** – Public versions of our internal guides to help team members get started
 
 Other orgs are welcome to clone, adapt, and extend any of these materials — we encourage it. 
-
-## 🌐 Principles
-
-We operate under the belief that the best systems:
-- Are **open** by design
-- Center around **sovereignty**, **trust**, and **consent**
-- Make governance **inspectable**, not opaque
-- Are designed to be **reused and improved**, not hoarded and immutable
