@@ -20,10 +20,15 @@ We operate under the belief that the best systems:
 
 ## Open Platform
 
-We’ve open-sourced the foundational infrastructure behind Aeris-Taiko, including:
+We’ve open-sourced the foundational infrastructure behind Aeris-Taiko. Within this org's repositories, you'll find:
 
-- **The Corporate Charter** – A reusable company framework for mission-aligned orgs
-- **Bylaws & Board Docs** – Documenting transparent governance, including meeting templates and board decisions
-- **Onboarding Playbooks** – Public versions of our internal guides to help team members get started
+- **Our Mission Statement** - A declaration of our intended purpose and most important values
+- **Our Corporate Charter** – A reusable company framework for mission-aligned orgs
+- **Bylaws & Other Docs** – Any docs that support transparent governance, including meeting templates and board decisions
+- **Onboarding & Playbooks** – Public versions of our internal guides for teams, project groups, and new team members
+
+### What's not in our repositories
+- Any Personally Identifiable Information (PII)
+- Proprietary trade secrets related to unreleased or in-development products
 
 Other orgs are welcome to clone, adapt, and extend any of these materials — we encourage it. 
