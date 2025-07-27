@@ -1,6 +1,6 @@
 # About Us
 
-**We launch open and ethical startups tackling high-impact challenges.**
+**We launch open and ethical startups targeting high-impact challenges.**
 
 Aeris-Taiko Corporation is a Texas-based parent company focused on building principled, public-interest technologies. We believe modern companies should be transparent by default, auditable and composable by design, and governed in the open.
 
