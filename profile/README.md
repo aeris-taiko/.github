@@ -15,7 +15,7 @@ This GitHub org houses the governance stack that powers our internal divisions â
 We operate under the belief that the best systems:
 - Are **open** by design
 - Center around **sovereignty**, **trust**, and **consent**
-- Make governance **inspectable**, not opaque
+- Invite **inspection** and thrive on **critique**
 - Are designed to be **reused and improved**, not hoarded and immutable
 
 ## Open Platform
