@@ -6,8 +6,8 @@ Aeris-Taiko Corporation is a Texas-based parent company focused on building prin
 
 This GitHub org houses the governance stack that powers our internal divisions — including:
 
-- **[Arcanum](https://github.com/atc-arcanum)** — special projects and engineering
-- **HealthSight** — healthcare-facing data viz and apps
+- **[Arcanum](https://github.com/atc-arcanum)** — Special projects and engineering
+- **HealthSight** — Data viz and apps for human (and critter) healthcare
 - **Critter Concierge** — A just-in-case system that ensures your animals are never forgotten.
 
 ## Principles
